@@ -81,6 +81,12 @@ This project enhanced my understanding of **building end-to-end BI solutions**, 
 
 ---
 
+## Screenshots/Demos:
+
+Shows what the dashboard looks like. - ![Dashboard Preview].(https://github.com/AnujGusain/ATliQ-Hardwares-PBI-360-Insights/blob/main/Finance%20View%20BI%20Dashboard.png)
+
+---
+
 ## 📬 Let’s Connect!
 
 Open to collaborations, feedback, or job opportunities.  
