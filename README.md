@@ -89,4 +89,4 @@ Shows what the dashboard looks like. -[Dashboard Preview](https://github.com/Anu
 ## 📬 Let’s Connect!
 
 Open to collaborations, feedback, or job opportunities.  
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/anujgusain/) or reach out by ![email](anujgusain952@gmail.com)
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/anujgusain/) or reach out by [email](anujgusain952@gmail.com)
